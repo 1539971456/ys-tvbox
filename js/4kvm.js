@@ -442,9 +442,11 @@ export default {
 
     play: function (flag, id, flags) {
         var r = k4Play(id);
+        // 注意: 本 App(PlayFragment) 播放时执行的是 playUrl(...) + url(...),
+        // 即 "playUrl" 与 "url" 会被拼接, 所以直链只能放在 url 字段, 不能两个都填!
         return JSON.stringify({
             parse: 0,
-            playUrl: r.url,
+            jx: 0,
             url: r.url,
             msg: r.url ? '' : r.msg,
             header: JSON.stringify({ 'User-Agent': K4_UA, 'Referer': K4_ROOT + '/' })
