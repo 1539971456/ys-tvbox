@@ -1,29 +1,33 @@
 {
     "storeHouse": [
         {
-            "sourceName": "💖更新于2026|9,28💖且用且珍惜",
-            "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/cs.json"
+            "sourceName": "💖更新于2026,10,03💖且用且珍惜",
+            "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/4gg4.json"
         },
         {
             "sourceName": "🌟安忆整合线路🌟自动更新",
             "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/ayjuh.json"
         },
         {
-            "sourceName": "🌟双龙线路【备用】🌟",
-            "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/4gg4.json"
-        },
-        {
-            "sourceName": "🌟VIP--TV【备用】🌟",
+            "sourceName": "🌟影视仓线路【备用】🌟",
             "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/viptv.json"
         },
         {
-            "sourceName": "🌟VIP--TV【主用】🌟",
+            "sourceName": "🌟影视仓线路【主用】🌟",
             "sourceUrl": "https://700sjro44343.vicp.fun/vip/0601/tv.php"
         },
         {
             "sourceName": "🌟Easy线路🌟",
-            "sourceUrl": "https://easyzz.dpdns.org/easytv.jpg"
+            "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/tv.json"
         },
+        {
+            "sourceName": "🌟luotao线路🌟",
+            "sourceUrl": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/fxapi.json"
+        }, 
+        {
+            "sourceName": "🌟装歌线路🌟",
+            "sourceUrl": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html"
+        }, 
         {
             "sourceName": "💖饭太硬自建备用💖",
             "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/fty.json"
@@ -37,12 +41,8 @@
             "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/doli.json"
         },
         {
-            "sourceName": "💖采集站线路💖有广告",
-            "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/1.json"
-        },
-        {
-            "sourceName": "💖嗷呜线路💖【官方的问题会卡住】",
-            "sourceUrl": "https://9763.kstore.vip/aowu.json"
+            "sourceName": "💖嗷呜线路💖",
+            "sourceUrl": "http://itv666.cc/aowu/config.webp"
         },
         {
             "sourceName": "💖嗷呜备用💖",
@@ -597,7 +597,7 @@
             "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/zhen6.json"
         },
         {
-            "sourceName": "支持正版|切勿分享",
+            "sourceName": "支持正版 | 切勿分享",
             "sourceUrl": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/4gg4.json"
         },
         {
