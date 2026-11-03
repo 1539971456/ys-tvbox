@@ -3,8 +3,106 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+WCETV Digital Channel 31.8,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+CCTV-5+ (1080p),https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-16,https://hls-gateway.vpstv.net/streams/709089.m3u8
+文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
+央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
+风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
+怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
+高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
+卫视,#genre#
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+广东卫视,https://hls-gateway.vpstv.net/streams/476943.m3u8
+安徽,#genre#
+安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+福建,#genre#
+福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+广东,#genre#
+广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
+广西,#genre#
+广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+贵州,#genre#
+贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 河北,#genre#
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+黑龙江,#genre#
+黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+湖南,#genre#
+湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+江苏,#genre#
+江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+山东,#genre#
+山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+山西,#genre#
+湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+陕西,#genre#
+陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+四川,#genre#
+四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+四川峨眉山远眺贡嘎雪山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+云南,#genre#
+云南丽江冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+云南丽江玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+云南大理崇圣寺三塔中景,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+云南白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+浙江,#genre#
+浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+数字,#genre#
+南京教育科技,https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+NewTV,#genre#
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 其他,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
@@ -46,90 +144,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-央视,#genre#
-CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-WCETV Digital Channel 31.8,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-CCTV-5+ (1080p),https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8
-卫视,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-安徽,#genre#
-安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-福建,#genre#
-福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-广西,#genre#
-广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
-广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-贵州,#genre#
-贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-河北,#genre#
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-黑龙江,#genre#
-黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-湖南,#genre#
-湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-江苏,#genre#
-江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-山东,#genre#
-山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-山西,#genre#
-湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-陕西,#genre#
-陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
-四川,#genre#
-四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
-四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-四川峨眉山远眺贡嘎雪山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-云南,#genre#
-云南丽江冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-云南丽江玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-云南大理崇圣寺三塔中景,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
-云南白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-浙江,#genre#
-浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-数字,#genre#
-南京教育科技,https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-NewTV,#genre#
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-体育,#genre#
-纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-其他,#genre#
 NHL FAST,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 UFC 24/7,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
@@ -364,6 +378,33 @@ Hong Kong International Business Channel (1080p) [Geo-blocked],https://hoytv-liv
 Jiangxi Economy & Life Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-34.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-2.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-7.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
+江门综合,https://stream1.freetv.fun/jiang-men-zong-he-4.ctv
+佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-7.ctv
+佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-9.ctv
+佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-17.ctv
+佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-22.ctv
+佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-15.ctv
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+体育,#genre#
+纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 国际,#genre#
 France 24 Français,https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
@@ -391,6 +432,11 @@ France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/mas
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 黄渤电影,https://live.metshop.top/huya/11352876
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-7.ctv
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-28.ctv
+广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-25.m3u8
 纪录片,#genre#
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 港澳,#genre#
@@ -399,7 +445,3 @@ RTHK TV 32 (1080p) [Geo-blocked],https://rthktv32-live.akamaized.net/hls/live/20
 RTHK TV 33 (1080p) [Geo-blocked],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 台湾-生活,#genre#
 TechStorm (720p) [Geo-blocked],https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
