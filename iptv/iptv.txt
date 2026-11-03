@@ -49,6 +49,12 @@ CCTV-12,#https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
 CCTV-14,#https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN西语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 卫视,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
@@ -77,6 +83,7 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 广西卫视,#https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
 云南卫视,#https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 吉林卫视,#https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 安徽,#genre#
 安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
@@ -142,6 +149,7 @@ Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c19
 茶友频道,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
 快乐垂钓,#http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
+4K TRAVEL,https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 SiTV,#genre#
 都市剧场,#https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 游戏风云,#https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
@@ -461,6 +469,25 @@ Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u
 港台电视31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 港台电视32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 半岛新闻,#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$IPV4
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8$IPV4
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8$IPV4
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8$IPV4
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+MBC,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8
 体育,#genre#
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -499,6 +526,7 @@ France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/mas
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8$IPV4
 纪录片,#genre#
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 港澳,#genre#
